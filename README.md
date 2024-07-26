@@ -1,7 +1,7 @@
 ### Olá me chamo Guilherme Batista 👋
 
 🔭 Hoje atuo como estudante para FullStack </br>
-🌱 Estudando Restful Apis com SpringBoot</br>
+🌱 Estudando Restful Apis com SpringBoot e Microservice</br>
 💬 Pergunte-me sobre HTML, CSS, JavaScript e Java </br>
 📫 contacte-me no email: guilherme.santos201412@gmail.com </br>
 
